@@ -1,8 +1,8 @@
 # tmux-config
 
-tmux config including tpm
+tmux config including tmux plugin manager (tpm) and catppuccin
 
-Screenshot ToDo
+![Screenshot](./imgs/screenshot.png)
 
 ## Dependencies
 
