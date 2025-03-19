@@ -27,9 +27,7 @@ sudo make install
 1. clone this repo to .tmux
 
     ```bash
-    git clone https://github.com/nwesem/tmux-config .tmux
-    # or ssh
-    git clone git@github.com:nwesem/tmux-config.git .tmux
+    git clone git@gitlab.motius.de:niclas.wesemann/tmux-config.git ~/.tmux
     ```
 
 1. install tmux plugin manager
